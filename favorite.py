@@ -1,0 +1,1 @@
+print("My favorite subject is Git!")
